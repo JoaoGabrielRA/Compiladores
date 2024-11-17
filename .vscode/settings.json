@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "memory_resource": "cpp",
+        "tuple": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "cmake.sourceDirectory": "/wsl.localhost/Ubuntu/home/joaorodrigues/Compiladores/Labs/Lab11"
+}
